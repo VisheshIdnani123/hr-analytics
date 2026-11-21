@@ -1,0 +1,301 @@
+employee_id,age,department,location,hire_date,tenure_years,annual_salary,performance_rating,satisfaction_score,overtime,attrition
+E0001,29,Engineering,New York,2025-12-16,0,112000,3.4,1,Yes,No
+E0002,35,Marketing,Boston,2018-02-05,7,171000,3.8,5,Yes,No
+E0003,48,Hr,Austin,2018-07-13,7,156000,2.3,1,Yes,No
+E0004,35,Operations,Chicago,2015-07-12,10,68000,2.7,1,No,Yes
+E0005,24,Hr,Boston,2011-02-23,14,179000,4.5,1,No,No
+E0006,34,Engineering,Remote,2023-09-05,2,53000,4.5,3,No,No
+E0007,39,Operations,Austin,2011-10-10,14,135000,3.7,3,Yes,No
+E0008,32,Sales,New York,2011-12-08,14,139000,4.0,3,Yes,No
+E0009,42,Finance,Remote,2013-04-24,12,110000,4.8,5,No,No
+E0010,31,Operations,Remote,2017-05-29,8,77000,4.0,2,No,No
+E0011,45,Marketing,Remote,2018-10-14,7,77000,3.1,1,Yes,Yes
+E0012,60,Engineering,New York,2023-03-25,2,140000,3.4,4,No,No
+E0013,56,Operations,Austin,2017-08-22,8,129000,4.0,4,Yes,No
+E0014,54,Operations,Boston,2022-10-12,3,,3.9,5,Yes,Yes
+E0015,22,Operations,New York,2006-09-05,19,124000,3.1,3,No,No
+E0016,27,Operations,Austin,2010-05-07,15,59000,3.4,5,Yes,Yes
+E0017,38,Marketing,Chicago,2009-01-27,16,150000,5.0,2,No,No
+E0018,50,Engineering,Boston,2009-07-16,16,157000,3.0,1,Yes,Yes
+E0019,57,Hr,New York,2018-12-18,7,98000,4.5,1,Yes,Yes
+E0020,54,Operations,Remote,2018-03-17,7,113000,3.4,4,Yes,No
+E0021,37,Marketing,New York,2010-05-11,15,146000,3.5,4,No,No
+E0022,28,Operations,Remote,2024-09-26,1,145000,3.7,3,Yes,Yes
+E0023,30,Engineering,New York,2012-03-29,13,88000,3.3,1,No,No
+E0024,56,Sales,Remote,2025-04-30,0,65000,3.9,2,Yes,Yes
+E0025,25,Marketing,Remote,2020-03-24,5,139000,4.1,4,No,No
+E0026,31,Engineering,Chicago,2019-04-01,6,117000,3.4,2,Yes,No
+E0027,25,Sales,New York,2024-11-21,1,164000,2.0,2,Yes,No
+E0028,60,Sales,Boston,2023-03-17,2,102000,3.4,4,Yes,No
+E0029,60,Marketing,Chicago,2024-09-19,1,62000,2.6,5,No,No
+E0030,37,Engineering,Remote,2017-11-27,8,143000,3.9,2,No,No
+E0031,58,Hr,Chicago,2022-08-30,3,60000,2.6,2,No,No
+E0032,32,Hr,New York,2011-03-28,14,119000,3.2,5,Yes,No
+E0033,30,Marketing,Chicago,2017-09-18,8,71000,4.3,2,No,No
+E0034,35,Engineering,Remote,2005-12-11,20,109000,2.7,5,No,No
+E0035,39,Marketing,Remote,2024-03-25,1,42000,3.2,3,Yes,No
+E0036,57,Operations,Boston,2025-06-26,0,70000,3.7,1,Yes,No
+E0037,31,Marketing,New York,2012-08-30,13,74000,4.0,1,No,No
+E0038,44,Sales,Austin,2008-09-06,17,146000,3.6,5,Yes,No
+E0039,48,Engineering,Remote,2025-01-07,0,87000,3.3,4,Yes,Yes
+E0040,24,Sales,New York,2010-09-11,15,98000,2.8,2,No,No
+E0041,34,Marketing,Boston,2013-06-14,12,126000,3.4,3,No,No
+E0042,43,Engineering,New York,2025-08-19,0,71000,3.7,3,Yes,No
+E0043,60,Sales,Chicago,2012-03-15,13,130000,3.3,5,Yes,No
+E0044,24,Marketing,Chicago,2012-11-30,13,42000,2.8,5,Yes,No
+E0045,42,Sales,Austin,2022-03-25,3,118000,2.4,3,No,No
+E0046,48,Hr,Chicago,2014-01-04,12,86000,3.4,5,No,No
+E0047,35,Marketing,New York,2012-10-10,13,124000,2.7,2,No,No
+E0048,40,Sales,Austin,2009-09-12,16,127000,3.6,1,Yes,No
+E0049,23,Operations,Austin,2024-02-14,1,104000,4.4,1,No,No
+E0050,46,Engineering,Remote,2011-01-03,15,144000,3.3,2,Yes,No
+E0051,36,Marketing,Boston,2020-05-10,5,174000,2.5,1,No,Yes
+E0052,57,Finance,Austin,2006-04-01,19,123000,3.6,4,No,No
+E0053,52,Finance,New York,2011-08-18,14,108000,3.4,3,No,No
+E0054,40,Sales,Austin,2018-11-23,7,111000,2.1,3,No,No
+E0055,36,Engineering,Austin,2013-06-06,12,81000,3.3,4,No,No
+E0056,48,Hr,Remote,2013-07-08,12,47000,3.2,5,No,No
+E0057,48,Marketing,Remote,2008-01-29,17,98000,2.8,4,Yes,No
+E0058,32,Operations,New York,2011-03-08,14,74000,3.4,5,Yes,No
+E0059,27,Finance,Chicago,2005-09-20,20,151000,3.9,1,No,No
+E0060,43,Engineering,Boston,2013-05-09,12,113000,4.0,4,No,No
+E0061,25,Engineering,Boston,2014-09-24,11,99000,2.7,1,Yes,No
+E0062,31,Finance,Chicago,2018-09-14,7,74000,2.4,4,Yes,No
+E0063,45,Operations,Remote,2020-07-27,5,71000,3.5,3,Yes,No
+E0064,47,Marketing,Boston,2019-08-02,6,61000,3.0,5,Yes,Yes
+E0065,29,Engineering,Remote,2007-07-16,18,52000,3.0,3,Yes,No
+E0066,53,Sales,Boston,2022-05-25,3,152000,4.0,3,No,No
+E0067,39,Engineering,Chicago,2006-09-03,19,179000,3.5,5,No,No
+E0068,50,Hr,Austin,2018-04-25,7,160000,2.6,5,No,No
+E0069,53,Sales,New York,2019-04-14,6,132000,3.6,5,No,No
+E0070,37,Marketing,Remote,2012-02-09,13,167000,2.8,5,Yes,No
+E0071,50,Finance,Boston,2025-06-27,0,65000,3.2,2,No,No
+E0072,55,Hr,Chicago,2014-05-17,11,150000,4.1,5,No,No
+E0073,38,Hr,Boston,2018-05-01,7,,3.3,5,Yes,Yes
+E0074,55,Sales,Chicago,2006-07-06,19,114000,2.8,1,Yes,Yes
+E0075,22,Marketing,Remote,2008-11-02,17,74000,3.1,5,No,No
+E0076,28,Engineering,Chicago,2025-09-29,0,114000,5,4,No,No
+E0077,52,Hr,New York,2022-03-20,3,58000,3.2,1,Yes,Yes
+E0078,37,Finance,Remote,2022-06-22,3,148000,3.6,5,Yes,No
+E0079,41,Marketing,Austin,2007-09-22,18,151000,3.1,5,Yes,No
+E0080,38,Engineering,Remote,2023-10-14,2,82000,4.3,2,Yes,No
+E0081,50,Hr,Boston,2006-09-09,19,162000,3.3,3,No,No
+E0082,34,Sales,New York,2012-08-21,13,71000,3.9,5,Yes,No
+E0083,25,Hr,Remote,2020-01-16,5,120000,2.3,3,No,Yes
+E0084,39,Finance,Chicago,2009-12-16,16,180000,2.7,4,No,No
+E0085,60,Hr,Boston,2017-01-24,8,48000,4.9,5,Yes,No
+E0086,24,Operations,Remote,2020-10-02,5,162000,4.4,5,No,No
+E0087,53,Finance,Chicago,2023-01-12,2,162000,3.0,1,Yes,Yes
+E0088,47,Engineering,Remote,2008-07-24,17,51000,3.9,4,Yes,No
+E0089,54,Marketing,Remote,2025-04-21,0,180000,3.2,5,No,No
+E0090,25,Marketing,Remote,2019-05-24,6,110000,3.5,5,Yes,No
+E0091,29,Finance,New York,2025-11-04,0,103000,3.2,1,No,Yes
+E0092,31,Finance,Austin,2010-05-03,15,116000,2.8,5,No,No
+E0093,51,Finance,Chicago,2008-08-17,17,79000,2.2,5,Yes,No
+E0094,54,Marketing,Remote,2017-03-13,8,42000,4.5,3,No,No
+E0095,31,Sales,Austin,2011-07-25,14,179000,2.8,5,No,No
+E0096,58,Marketing,Remote,2013-05-07,12,101000,3.5,4,Yes,No
+E0097,46,Engineering,Boston,2005-05-26,20,80000,3.2,5,No,No
+E0098,51,Hr,Boston,2025-08-19,0,78000,3.4,4,Yes,Yes
+E0099,47,Marketing,Remote,2005-02-20,20,62000,4.2,5,No,No
+E0100,56,Finance,New York,2024-11-16,1,59000,2.3,3,No,No
+E0101,28,Hr,Chicago,2011-08-08,14,84000,2.9,1,No,No
+E0102,49,Sales,Austin,2021-10-02,4,104000,2.0,5,No,No
+E0103,27,Hr,Remote,2006-02-14,19,139000,3.0,5,Yes,No
+E0104,38,Operations,Chicago,2025-07-09,0,161000,3.0,3,Yes,Yes
+E0105,49,Operations,Chicago,2017-06-22,8,158000,3.7,4,No,No
+E0106,58,Marketing,New York,2016-03-20,9,117000,3.0,1,No,No
+E0107,60,Hr,Austin,2010-02-22,15,115000,3.5,3,Yes,No
+E0108,28,Marketing,Austin,2005-07-04,20,52000,2.9,3,No,Yes
+E0109,27,Sales,Chicago,2016-08-17,9,125000,3.4,2,No,No
+E0110,52,Sales,Remote,2016-10-23,9,128000,3.0,1,No,No
+E0111,57,Marketing,Chicago,2014-01-25,11,65000,3.4,5,Yes,No
+E0112,59,Operations,Chicago,2013-02-21,12,137000,3.3,1,Yes,No
+E0113,36,Engineering,Chicago,2005-12-14,20,58000,2.9,3,No,No
+E0114,53,Marketing,Boston,2022-06-27,3,66000,2.8,2,Yes,No
+E0115,48,Engineering,Chicago,2007-08-16,18,81000,4.2,4,No,No
+E0116,35,Hr,Boston,2011-01-19,14,155000,2.7,2,No,Yes
+E0117,44,Marketing,Boston,2024-02-08,1,143000,3.1,4,Yes,No
+E0118,23,Engineering,Boston,2024-09-18,1,127000,5,2,Yes,No
+E0119,35,Sales,Boston,2007-10-24,18,97000,3.6,2,Yes,Yes
+E0120,38,Operations,Chicago,2020-09-03,5,70000,2.9,1,Yes,Yes
+E0121,23,Finance,Chicago,,5,109000,4.5,5,Yes,No
+E0122,54,Marketing,Boston,2007-12-15,18,69000,3.8,4,Yes,No
+E0123,41,Marketing,Remote,2011-04-29,14,49000,4.1,4,No,No
+E0124,26,Operations,Boston,2023-08-15,2,124000,3.7,5,Yes,Yes
+E0125,57,Engineering,Boston,2015-01-10,10,139000,4.3,4,No,No
+E0126,35,Finance,Remote,2012-05-17,13,157000,3.4,2,No,No
+E0127,28,Engineering,Remote,2015-11-22,10,151000,3.2,2,No,Yes
+E0128,28,Operations,Chicago,2014-03-23,11,75000,3.9,5,Yes,No
+E0129,29,Hr,Chicago,2012-03-03,13,132000,4.6,4,Yes,No
+E0130,28,Engineering,Chicago,2007-09-14,18,171000,2.2,2,Yes,No
+E0131,57,Marketing,Chicago,2014-02-02,11,71000,3.5,4,Yes,No
+E0132,23,Sales,Boston,2020-10-02,5,111000,2.5,3,No,No
+E0133,47,Hr,Austin,2023-05-15,2,78000,3.3,1,Yes,No
+E0134,45,Sales,Boston,2016-10-16,9,125000,1.5,5,Yes,No
+E0135,25,Operations,New York,2023-09-14,2,111000,2.7,5,No,No
+E0136,44,Engineering,Austin,2012-07-31,13,70000,3.7,3,No,No
+E0137,47,Hr,New York,2006-08-11,19,56000,4.0,2,Yes,No
+E0138,22,Sales,Boston,2010-01-10,15,152000,3.4,2,Yes,No
+E0139,57,Hr,Boston,2014-11-26,11,60000,2.5,4,Yes,No
+E0140,49,Hr,Austin,2007-12-27,18,145000,4.1,4,No,No
+E0141,51,Hr,Chicago,2014-06-16,11,64000,3.1,4,No,No
+E0142,36,Hr,Chicago,2015-09-27,10,85000,3.5,1,Yes,No
+E0143,31,Engineering,Austin,2018-02-02,7,68000,3.7,5,Yes,No
+E0144,53,Hr,Austin,2011-02-18,14,156000,3.8,5,No,No
+E0145,50,Hr,Remote,2023-11-26,2,162000,2.8,3,Yes,No
+E0146,50,Operations,Boston,2024-11-16,1,56000,3.6,3,No,Yes
+E0147,54,Marketing,Austin,2013-03-18,12,160000,1.9,1,No,No
+E0148,42,Engineering,Chicago,2006-05-21,19,163000,2.6,5,Yes,No
+E0149,27,Finance,Remote,2009-08-14,16,86000,4.5,4,Yes,No
+E0150,43,Marketing,Remote,2006-03-27,19,55000,3.7,3,Yes,No
+E0151,40,Marketing,Remote,2017-02-02,8,80000,2.9,2,No,No
+E0152,30,Sales,Boston,2006-07-22,19,63000,4.2,3,No,No
+E0153,27,Finance,Austin,2005-07-16,20,150000,3.3,3,Yes,No
+E0154,36,Operations,Boston,2021-11-12,4,81000,3.4,1,No,No
+E0155,55,Marketing,Boston,2024-10-01,1,128000,4.1,5,No,Yes
+E0156,32,Finance,Boston,2011-09-06,14,53000,2.7,4,No,No
+E0157,40,Finance,Remote,2011-03-19,14,101000,2.8,4,Yes,No
+E0158,40,Operations,Austin,2013-09-24,12,170000,3.3,3,No,No
+E0159,38,Hr,Remote,2024-10-11,1,165000,4.0,1,Yes,Yes
+E0160,54,Engineering,Remote,2021-07-08,4,153000,2.8,1,Yes,No
+E0161,25,Engineering,Chicago,2013-07-25,12,170000,2.9,1,No,No
+E0162,31,Marketing,Remote,2021-10-23,4,51000,3.9,3,No,No
+E0163,50,Operations,Remote,2006-03-01,19,43000,3.5,2,Yes,No
+E0164,29,Marketing,Boston,2016-06-03,9,102000,3.3,3,Yes,Yes
+E0165,51,Sales,Austin,2023-03-14,2,70000,3.8,5,Yes,No
+E0166,40,Sales,New York,2012-06-05,13,42000,2.7,5,No,No
+E0167,55,Engineering,Remote,2014-05-09,11,59000,4.2,5,Yes,No
+E0168,45,Marketing,New York,2017-02-01,8,46000,3.1,3,Yes,No
+E0169,59,Marketing,Austin,2015-05-04,10,76000,4.2,2,No,No
+E0170,30,Engineering,Chicago,2023-09-22,2,159000,3.6,1,No,No
+E0171,41,Hr,Chicago,2009-09-30,16,143000,4.3,3,Yes,No
+E0172,25,Finance,Remote,2005-05-28,20,126000,3.3,3,Yes,No
+E0173,46,Engineering,Remote,2015-06-01,10,89000,2.6,5,No,No
+E0174,60,Hr,Chicago,2020-01-30,5,117000,3.4,3,Yes,Yes
+E0175,50,Operations,Remote,2006-07-10,19,151000,3.8,4,Yes,No
+E0176,39,Sales,New York,2005-01-24,20,56000,4.1,1,No,No
+E0177,31,Engineering,Boston,2006-03-22,19,154000,3.7,3,No,No
+E0178,31,Sales,Boston,2011-03-18,14,136000,3.5,3,No,No
+E0179,45,Operations,Remote,2013-04-24,12,122000,3.1,1,Yes,No
+E0180,57,Hr,Remote,2022-02-23,3,109000,3.0,3,No,No
+E0181,34,Marketing,Chicago,2022-07-23,3,76000,3.9,4,Yes,No
+E0182,26,Marketing,Austin,2008-01-07,17,180000,2.8,3,No,No
+E0183,45,Hr,Boston,2009-12-23,16,99000,3.7,2,Yes,No
+E0184,58,Engineering,Chicago,2014-11-21,11,161000,3.7,5,Yes,No
+E0185,47,Marketing,New York,2010-07-27,15,176000,2.8,5,Yes,Yes
+E0186,50,Marketing,Boston,2011-03-29,14,174000,3.8,3,Yes,No
+E0187,33,Hr,Austin,2021-10-12,4,152000,2.0,1,Yes,Yes
+E0188,44,Hr,Austin,2009-03-29,16,114000,3.4,1,No,Yes
+E0189,41,Marketing,Boston,2006-02-21,19,178000,4.2,5,Yes,Yes
+E0190,43,Operations,Chicago,2007-02-12,18,52000,4.0,1,Yes,Yes
+E0191,35,Finance,Austin,2007-08-05,18,148000,3.3,5,No,No
+E0192,47,Finance,Remote,2016-06-05,9,158000,3.3,1,Yes,Yes
+E0193,35,Operations,Boston,2015-06-29,10,78000,3.0,3,No,No
+E0194,28,Sales,New York,2015-08-31,10,103000,4.4,4,Yes,No
+E0195,25,Sales,Austin,2016-07-27,9,140000,3.9,2,No,No
+E0196,53,Finance,Boston,2009-11-20,16,161000,2.9,4,No,No
+E0197,51,Marketing,Remote,2018-02-03,7,97000,3.2,3,No,No
+E0198,40,Marketing,Chicago,2008-08-23,17,44000,3.3,1,No,Yes
+E0199,47,Finance,Boston,2014-11-28,11,53000,2.7,2,No,No
+E0200,50,Finance,Chicago,2008-11-17,17,113000,3.9,5,Yes,Yes
+E0201,43,Engineering,Austin,2008-12-13,17,135000,3.4,5,No,No
+E0202,43,Sales,Chicago,2010-04-17,15,174000,2.9,4,Yes,No
+E0203,42,Operations,Remote,2020-04-17,5,142000,4.5,3,No,No
+E0204,58,Finance,Boston,2016-11-08,9,163000,3.3,1,No,No
+E0205,41,Finance,Austin,2005-03-14,20,,2.9,5,Yes,No
+E0206,55,Engineering,Austin,2005-01-13,20,139000,3.1,2,Yes,Yes
+E0207,23,Finance,New York,2011-02-26,14,122000,2.8,2,No,No
+E0208,30,Operations,Remote,2009-05-06,16,95000,3.8,5,No,No
+E0209,42,Sales,Chicago,2020-09-26,5,159000,3.9,3,No,No
+E0210,57,Marketing,Remote,2016-01-16,9,99000,3.1,3,No,No
+E0211,42,Operations,Remote,2010-01-24,15,131000,1.9,3,No,Yes
+E0212,47,Hr,Remote,2014-11-25,11,79000,2.8,3,Yes,No
+E0213,38,Marketing,Boston,2010-02-24,15,96000,3.7,5,No,No
+E0214,37,Engineering,Remote,2018-12-08,7,54000,4.2,5,Yes,No
+E0215,43,Finance,Austin,2010-05-07,15,67000,3.2,5,Yes,No
+E0216,40,Operations,New York,2015-09-08,10,115000,3.1,1,Yes,No
+E0217,33,Engineering,New York,2012-08-09,13,87000,3.6,4,No,No
+E0218,41,Operations,Boston,2007-02-12,18,69000,3.3,3,No,No
+E0219,53,Marketing,Chicago,2021-05-13,4,171000,3.0,1,No,Yes
+E0220,33,Finance,Remote,2025-02-08,0,128000,3.5,3,Yes,Yes
+E0221,54,Engineering,Chicago,2015-08-30,10,64000,3.1,2,No,No
+E0222,46,Engineering,Chicago,2018-03-16,7,156000,3.6,3,No,No
+E0223,45,Hr,New York,2018-01-08,7,57000,3.0,2,No,No
+E0224,40,Marketing,Boston,2014-05-17,11,98000,2.7,2,Yes,No
+E0225,45,Engineering,Boston,2012-03-05,13,162000,3.5,2,Yes,No
+E0226,50,Operations,Austin,2009-03-31,16,134000,2.1,1,Yes,Yes
+E0227,58,Finance,New York,2008-03-13,17,80000,4.1,4,Yes,No
+E0228,54,Operations,New York,2011-05-17,14,56000,4.6,4,Yes,No
+E0229,57,Finance,Chicago,2011-12-13,14,120000,3.3,1,Yes,No
+E0230,26,Sales,Austin,2008-06-10,17,57000,2.7,1,No,Yes
+E0231,48,Operations,Austin,2014-01-31,11,139000,1.9,4,No,Yes
+E0232,44,Engineering,New York,2022-09-10,3,87000,3.9,5,No,No
+E0233,41,Sales,New York,2011-08-17,14,150000,2.1,2,No,No
+E0234,24,Engineering,Remote,2012-03-06,13,46000,3.1,2,Yes,Yes
+E0235,60,Sales,Boston,2024-12-04,1,104000,3.4,2,Yes,No
+E0236,40,Marketing,Boston,2018-10-22,7,123000,2.7,5,No,No
+E0237,36,Operations,Remote,2012-05-31,13,118000,3.3,5,Yes,No
+E0238,25,Sales,Chicago,2014-06-09,11,139000,4.3,5,No,No
+E0239,46,Operations,Remote,2020-12-04,5,179000,2.1,3,Yes,No
+E0240,48,Hr,New York,2008-09-23,17,177000,3.6,2,No,No
+E0241,50,Operations,New York,2014-03-01,11,65000,2.1,1,No,No
+E0242,26,Hr,New York,2019-07-17,6,97000,3.1,4,Yes,No
+E0243,35,Operations,Chicago,2019-09-03,6,72000,3.4,2,Yes,No
+E0244,40,Operations,Remote,2013-07-04,12,161000,2.2,5,No,No
+E0245,51,Operations,Austin,2022-12-10,3,162000,3.4,2,No,No
+E0246,31,Hr,Austin,2025-09-23,0,108000,2.8,5,No,No
+E0247,46,Marketing,Remote,2007-05-01,18,104000,2.4,3,No,No
+E0248,51,Sales,Boston,2020-04-27,5,132000,3.4,2,Yes,No
+E0249,25,Sales,New York,2009-02-17,16,50000,3.5,1,Yes,No
+E0250,31,Marketing,Boston,2025-02-19,0,97000,3.2,5,No,No
+E0251,52,Operations,Chicago,2010-08-18,15,46000,4.3,1,Yes,No
+E0252,23,Sales,Austin,2009-04-12,16,152000,3.4,2,Yes,No
+E0253,34,Finance,Boston,2006-06-13,19,176000,3.4,4,Yes,No
+E0254,37,Finance,Boston,2018-06-23,7,118000,4.1,1,Yes,Yes
+E0255,52,Operations,New York,2024-11-14,1,44000,3.3,4,No,No
+E0256,36,Hr,Boston,2019-01-18,6,163000,3.1,3,Yes,No
+E0257,58,Finance,New York,2024-01-03,1,87000,3.9,2,Yes,No
+E0258,41,Hr,Remote,2020-04-01,5,103000,3.1,5,No,No
+E0259,30,Hr,Boston,2023-11-25,2,170000,3.4,1,No,No
+E0260,60,Finance,Austin,2013-05-19,12,125000,2.8,1,No,No
+E0261,44,Sales,New York,2008-08-07,17,138000,2.4,4,Yes,No
+E0262,27,Hr,New York,2017-07-25,8,81000,3.8,4,Yes,No
+E0263,27,Finance,Boston,2025-05-26,0,120000,2.3,1,Yes,Yes
+E0264,57,Engineering,Boston,2009-03-28,16,146000,3.8,1,Yes,Yes
+E0265,60,Marketing,Remote,2015-10-10,10,140000,4.1,1,Yes,No
+E0266,32,Sales,Remote,2021-12-01,4,110000,3.5,3,No,No
+E0267,39,Operations,Boston,2012-04-26,13,118000,3.1,3,Yes,No
+E0268,34,Hr,Boston,2011-06-17,14,69000,3.4,2,No,Yes
+E0269,46,Marketing,Austin,2015-03-02,10,154000,2.7,5,Yes,No
+E0270,52,Marketing,Remote,2015-01-14,10,87000,4.5,4,No,No
+E0271,58,Sales,Boston,2018-03-21,7,125000,2.5,4,No,No
+E0272,56,Marketing,New York,2020-08-06,5,48000,4.3,4,Yes,No
+E0273,48,Finance,Boston,2010-11-29,15,77000,3.1,2,No,No
+E0274,52,Marketing,Boston,2007-07-06,18,144000,3.0,5,No,No
+E0275,60,Operations,Remote,2005-12-15,20,63000,3.8,3,Yes,No
+E0276,43,Marketing,Boston,2012-04-18,13,69000,3.7,1,Yes,Yes
+E0277,57,Finance,New York,2007-12-25,18,98000,2.7,5,Yes,No
+E0278,40,Finance,Austin,2012-07-13,13,63000,3.6,1,Yes,No
+E0279,55,Marketing,New York,2010-12-14,15,131000,2.7,4,No,Yes
+E0280,23,Sales,Chicago,2015-03-28,10,69000,3.5,2,Yes,No
+E0281,57,Finance,New York,2012-05-28,13,160000,3.5,2,Yes,No
+E0282,34,Hr,New York,2011-09-22,14,151000,4.1,4,Yes,No
+E0283,58,Operations,Chicago,2022-04-27,3,179000,3.6,4,Yes,No
+E0284,60,Operations,Austin,2013-05-15,12,142000,4.0,5,Yes,No
+E0285,41,Marketing,Austin,2006-06-29,19,63000,3.1,2,No,Yes
+E0286,54,Sales,Remote,2013-06-02,12,149000,2.9,5,Yes,No
+E0287,56,Operations,New York,2005-05-21,20,86000,2.6,2,Yes,Yes
+E0288,44,Operations,Remote,2025-03-20,0,166000,3.1,2,Yes,No
+E0289,48,Hr,New York,2010-09-15,15,148000,3.2,2,Yes,No
+E0290,39,Marketing,Remote,2018-03-20,7,179000,2.7,3,Yes,No
+E0291,57,Marketing,Remote,2009-12-15,16,70000,2.9,5,No,No
+E0292,56,Finance,Chicago,2019-12-18,6,150000,3.2,1,Yes,Yes
+E0293,44,Marketing,Chicago,2023-03-07,2,154000,3.6,2,Yes,No
+E0294,49,Hr,Boston,2020-03-17,5,77000,3.1,2,Yes,No
+E0295,39,Marketing,New York,2006-04-18,19,179000,4.4,3,No,No
+E0296,30,Sales,Austin,2012-10-29,13,57000,5,3,Yes,No
+E0297,42,Marketing,New York,2018-11-26,7,142000,2.5,3,No,No
+E0298,47,Operations,New York,2009-07-22,16,113000,3.5,3,No,No
+E0299,27,Finance,Chicago,2011-09-19,14,133000,4.1,4,Yes,No
+E0300,42,Hr,New York,2016-04-30,9,128000,2.4,5,Yes,No
